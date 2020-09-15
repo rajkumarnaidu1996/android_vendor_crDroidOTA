@@ -10,11 +10,11 @@ In order for a device to be OTA compliant, there are a few things to know.
 {
   "response": [
     {
-        "maintainer": "Name (nickname)",
+        "maintainer": "Rajkumar",
         "oem": "OEM",
-        "device": "Device Name",
-        "filename": "crDroidAndroid-10.0-<date>-<device codename>-v<crversion>.zip",
-        "download": "https://sourceforge.net/projects/crdroid/files/<device codename>/<crversion>/crDroidAndroid-10.0-<date>-<device codename>-v<crversion>.zip/download",
+        "device": "xiaomi mi a3",
+        "filename": "crDroidAndroid-6.10-<15.09.2020>-<laurel_sprout>-v<6.10>.zip",
+        "download": "https://sourceforge.net/projects/crdroid/files/<laurel_sprout>/<6.10>/crDroidAndroid-10.0-<15.09.2020>-<laurel_sprout>-v<6.10>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "size": 123456789,
@@ -37,8 +37,8 @@ In order for a device to be OTA compliant, there are a few things to know.
 ```
 Highlights & Device Specific Changes:
 Build type: Testing/Alpha/Beta/Weekly/Monthly
-Device: Device name (<device codename>)
-Device maintainer: Name (nickname)
+Device: Device name (laurel_sprout)
+Device maintainer: Name (rajkumar)
 Required firmware: add if any else remove this line
 
 ===== <date> =====
